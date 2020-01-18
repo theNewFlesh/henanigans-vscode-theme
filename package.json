@@ -1,5 +1,7 @@
 {
     "name": "Henanigans",
+    "publisher": "the-new-flesh",
+    "repository": "https://github.com/theNewFlesh/henanigans-vscode-theme",
     "displayName": "Henanigans",
     "description": "Henanigans theme for VS Code",
     "version": "0.0.1",
